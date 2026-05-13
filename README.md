@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm a core Java developer . Looking for a job.. Have skills In core Java. And basic of html css. <br>
+Java Full Stack Backend Developer with strong experience in Core Java, OOPs, Spring Boot, RESTful
+APIs, JDBC, Spring Data JPA, Spring Security, MySQL, and PostgreSQL, along with HTML, CSS, and
+JavaScript. Developed a scalable applictions using Spring Boot with REST APIs for product
+management, search, filtering, and order processing. Implemented JPA entity relationships, DTO pattern,
+validation, and pagination to optimize API performance and data handling. Skilled in designing scalable,
+secure, and maintainable backend applications using Spring Boot and Java enterprise technologies. <br>
 
 
 ## 🌐 Socials:
